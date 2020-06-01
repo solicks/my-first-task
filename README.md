@@ -4,4 +4,4 @@
 
 Git makes it easy for individual and teams to have version control and collaborations.
 
-Very essential and important in todays texchnology. 
+Very essential and important in todays texchnology.
